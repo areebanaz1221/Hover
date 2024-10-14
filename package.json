@@ -1,0 +1,11 @@
+{
+  "name": "@areebaashraf/hover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aree_rajput",
+  "license": "ISC",
+  "description": ""
+}
